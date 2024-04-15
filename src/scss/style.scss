@@ -3,6 +3,7 @@
 @import "./base/typography.scss";
 @import "./base/grid.scss";
 @import "./base/mixin.scss";
+@import "./base/ui.scss";
 
 /* layout */
 @import "./layout/inc-header.scss";
@@ -33,7 +34,7 @@ body {
   font-family: $baseFont;
   font-weight: 400;
   font-size: rem(16px);
-  line-height: 1.42;
+  line-height: 1.2;
   color: #000;
   background-color: #fff;
 }
@@ -52,6 +53,10 @@ body {
 #middle {
   flex: 1 0 auto;
   -webkit-box-flex: 1;
+
+  &.active {
+    padding-top: 118px;
+  }
 }
 
 #footer {

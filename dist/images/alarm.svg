@@ -1,0 +1,17 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<mask id="mask195_9370" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="24.000000" height="24.000000">
+		<path id="Vector" d="M0 0L24 0L24 24L0 24L0 0Z" fill="#FF6174" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</mask>
+	<g mask="url(#mask195_9370)">
+		<path id="Vector" d="M20.8 14.01L13.9 2.06C13.6 1.55 13.78 0.9 14.28 0.61C14.79 0.31 15.44 0.49 15.73 0.99L22.63 12.95C22.93 13.45 22.75 14.1 22.25 14.4C21.74 14.69 21.09 14.52 20.8 14.01Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M19.89 8.2L18.48 5.74L19.08 5.39C19.76 5 20.63 5.23 21.02 5.91C21.42 6.59 21.18 7.46 20.5 7.85L19.89 8.2Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M11.29 4.95L13.88 2.04L20.81 14.03L9.36 16.48L6.08 10.82L8.49 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M6.08 10.81L9.36 16.48L5.37 18.79C4.52 19.27 3.44 18.98 2.96 18.14L1.45 15.53C0.96 14.68 1.25 13.6 2.1 13.12L6.08 10.81Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M9.36 16.48L13.96 21.09C14.62 21.75 14.48 22.87 13.66 23.33C13.1 23.66 12.4 23.57 11.94 23.11L6.79 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M11.74 15.97L12.97 17.11C13.36 17.47 13.29 18.12 12.82 18.39L11.83 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

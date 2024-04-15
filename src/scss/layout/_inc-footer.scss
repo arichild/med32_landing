@@ -1,0 +1,143 @@
+.footer {
+  background-color: #1A3B9F;
+  padding: 44px 0;
+  border-top: 1px solid #395DCA;
+  color: #fff;
+
+  &-policy {
+    position: relative;
+    top: 6px;
+  }
+
+  &-content {
+    // align-items: center;
+    justify-content: space-between;
+
+    &-left {
+      max-width: 53.5%;
+      flex: 0 0 53.5%;
+    }
+
+    &-right {
+      max-width: 46.5%;
+      flex: 0 0 46.5%;
+      justify-content: space-between;
+      position: relative;
+      top: 6px;
+    }
+  }
+
+  &-logo {
+    line-height: 0;
+    margin-right: 58px;
+  }
+
+  &-license {
+    max-width: 288px;
+    margin-right: 20px;
+    // margin-right: 118px;
+  }
+
+  &-create {
+    max-width: 268px;
+    flex: 0 0 268px;
+    display: inline-block;
+
+    &-title {
+      display: inline-block;
+    }
+
+    &-name {
+      padding-left: 34px;
+      position: relative;
+      display: inline-block;
+
+      &::before {
+        content: "";
+        background-image: url("../images/farba.svg");
+        background-repeat: no-repeat;
+        width: 23px;
+        height: 36px;
+        background-size: 100%;
+        position: absolute;
+        left: 5px;
+        top: -15px;
+      }
+    }
+  }
+
+  @media(max-width: 1680.99px) {
+    padding: 38px 0;
+
+    &-logo {
+      max-width: 200px;
+      margin-right: 40px;
+    }
+  }
+
+  @media(max-width: 1366.99px) {
+    &-create {
+      max-width: none;
+      flex: none;
+    }
+
+    // &-logo {
+    //   margin-bottom: 20px;
+    // }
+
+    &-license {
+      margin-bottom: 20px;
+      margin-right: 0;
+    }
+
+    &-content {
+      &-left {
+        // flex-direction: column;
+        max-width: none;
+        flex: none;
+      }
+      &-right {
+        flex-direction: column;
+        max-width: none;
+        flex: none;
+        // align-items: flex-end;
+      }
+    }
+  }
+
+  @media(max-width: 1024.99px) {
+    padding: 20px 0;
+    &-logo {
+      margin-bottom: 20px;
+    }
+
+    &-content {
+      &-left {
+        flex-direction: column;
+      }
+
+      &-right {
+        align-items: end;
+      }
+    }
+  }
+
+  @media(max-width: 576.99px) {
+    &-policy {
+      position: static;
+    }
+
+    &-content {
+      flex-direction: column;
+
+      &-left {
+        margin-bottom: 20px;
+      }
+
+      &-right {
+        align-items: start;
+        position: static;
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip195_8897">
+			<rect id="Frame" width="36.000000" height="36.000000" transform="translate(6.000000 6.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 191" cx="24.000000" cy="24.000000" r="24.000000" fill="#FF6174" fill-opacity="1.000000"/>
+	<rect id="Frame" width="36.000000" height="36.000000" transform="translate(6.000000 6.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip195_8897)">
+		<path id="Vector" d="M18.98 28.54C16.59 28.5 15 25.92 15 22.87C15 18.93 18.48 16.05 19.5 14.43C20.36 13.06 21.64 8.25 25.68 8.25C28.07 8.25 29.9 10.78 29.62 11.62C27.58 13.34 26.95 12.43 25.82 13.59C24.7 14.75 24.36 15.33 23.47 15.74C20.06 17.28 18.37 19.18 18.37 22.31C18.37 28.48 20.06 30.75 20.06 33C20.06 35.25 18.37 37.57 18.37 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M29.43 11.78C29.43 11.78 29.86 12.75 29.65 13.33C29.43 13.92 29.03 14.81 28.5 15L28.5 16.68L27.93 16.68C27.93 16.68 26.9 18.37 26.25 18.37C25.59 18.37 24.77 17.67 24.56 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M29.5 10.83C29.5 10.83 30.75 11.02 30.75 14.43C30.75 17.14 29.06 18.58 29.06 21.11C29.06 22.69 29.3 24.42 28.57 25.3M22.31 18.37C22.91 18.37 25.12 19.78 25.12 21.18L25.12 28.5C25.12 29.8 28.95 35.81 29.62 35.81C30.29 35.81 31.04 36.11 31.31 36.37C31.5 36.4 31.71 36.4 31.88 36.4C31.96 36.4 32.03 36.41 32.1 36.44C32.17 36.47 32.23 36.51 32.28 36.56C32.33 36.62 32.37 36.68 32.4 36.75C32.43 36.81 32.44 36.89 32.44 36.96C32.42 37.83 32.22 39.18 30.75 39.18C28.85 39.18 28.06 37.65 27.37 36.37C27.37 36.37 23.43 33.38 22.31 30.75C22.31 30.75 20.69 22.98 20.62 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M27.74 28.16C31.06 30.21 32.26 31.25 32.9 33.64C32.97 33.87 32.99 34.1 32.99 34.33C32.99 35.3 32.57 36.22 32.35 36.65M25.01 17.78C25.01 17.78 24.01 18.61 23.93 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M25.12 21.18C25.82 22.2 28.5 24.45 28.5 26.25C28.5 28.04 27.37 28.5 26.81 " stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
