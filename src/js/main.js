@@ -168,7 +168,9 @@ $( document ).ready(function() {
     }).mount();
   }
 
-  const anchorLink = document.querySelectorAll('[data-anchor="contacts"]')
+  const anchorLink = document.querySelectorAll('.anchor-link')
+
+  console.log(anchorLink)
 
   if(anchorLink.length) {
     anchorLink.forEach(element => {
