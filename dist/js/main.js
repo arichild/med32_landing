@@ -193,3 +193,24 @@ $( document ).ready(function() {
     });
   }
 })
+
+function showPopup() {
+  $.magnificPopup.open({
+    items: { src: './popup/success.html' },
+    type: 'ajax',
+    overflowY: 'scroll',
+    removalDelay: 300,
+    mainClass: 'my-mfp-zoom-in',
+    ajax: {
+      tError: 'Ошибка. <a href="%url%">Контент</a> не может быть загружен',
+    },
+    callbacks: {
+      open: function () {
+        setTimeout(function () {
+          $('.mfp-wrap').addClass('not_delay');
+          $('.white-popup').addClass('not_delay');
+        }, 700);
+      }
+    },
+  });
+}
