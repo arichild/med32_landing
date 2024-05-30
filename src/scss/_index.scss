@@ -538,7 +538,9 @@
       }
 
       .way-card-line {
-        top: -437px;
+        // top: -437px;
+        top: auto;
+        bottom: -62px;
         background: linear-gradient(to top,#00f calc(50%), #F5F5F5 calc(50%));
       }
 
